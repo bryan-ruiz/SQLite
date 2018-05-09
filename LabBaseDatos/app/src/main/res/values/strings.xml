@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LabBaseDatos</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="crear">Crear</string>
+    <string name="atras">Atras</string>
+    <string name="imprimir">Imprimir Ordenes</string>
+    <string name="orden">Crear orden</string>
+    <string name="codigoOrden">Codigo orden:</string>
+    <string name="codigoPlato">Codigo plato:</string>
+    <string name="codigoInsumo">Codigo insumo:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="hora">Hora:</string>
+    <string name="comentario">Comentario:</string>
+    <string name="plato">Crear plato</string>
+    <string name="nombrePlato">Nombre plato:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="precio">Precio:</string>
+    <string name="insumoPlato">Crear insumo plato</string>
+    <string name="Insumo">Crear insumo</string>
+    <string name="nombreInsumo">Nombre insumo:</string>
+    <string name="cantidadInsumo">Cantidad insumo:</string>
+    <string name="unidadMedidaInsumo">Unidad medida insumo:</string>
+</resources>
